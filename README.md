@@ -1,6 +1,13 @@
 # Java_MiniProject
 Car Booking System
-Credit: \n
+
+
+Credits: 
+
 Login System: Ronit Shetty
+
+
 GUI: Tanishq Nabar
+
+
 Price Calculator: Pranshu Chaniyara
